@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Room Database</string>
+    <string name="enter_text">Enter Text</string>
+    <string name="add">ADD</string>
+    <string name="reset">Reset</string>
+
+    <string name="enter">ENTER TEXT</string>
+</resources>
